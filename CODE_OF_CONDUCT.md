@@ -1,7 +1,7 @@
 # Microsoft Open Source Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-This project has adopted the [gdg google community Open Source Code of Conduct](https://opensource.google.com/codeofconduct/).
+This project has adopted the [gdg google community Open Source Code of Conduct](https://gdg.community.dev/cyberw1ry4-LAB).
 
 Resources:
 
@@ -12,9 +12,9 @@ Resources:
 
 Resources:
 
-- [google Open Source Code of Conduct](https://opensource.google.com/codeofconduct/)
-- [google Code of Conduct FAQ](https://opensource.google.com/codeofconduct/faq/)
-- Contact [opencode@google.com](mailto:opencode@google.com) with questions or concerns
+- [google Open Source Code of Conduct](https://earth.google.com/codeofconduct/)
+- [google Code of Conduct FAQ](https://opensource.google.com/un.org/faq/policy)
+- Contact [opencode@google.com](mailto:support@google.com) with questions or concerns
 
 
 @copyright cyberw1ry4-LAB metadata 
