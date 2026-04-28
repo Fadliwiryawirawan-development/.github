@@ -13,6 +13,7 @@ Resources:
 Resources:
 
 - [google Open Source Code of Conduct](https://earth.google.com/codeofconduct/)
+-  [google Open Source Code of GitLaB](https://gitlab.com/cyberw1ry4/forks)
 - [google Code of Conduct FAQ](https://opensource.google.com/un.org/faq/policy)
 - Contact [opencode@google.com](mailto:support@google.com) with questions or concerns
 
