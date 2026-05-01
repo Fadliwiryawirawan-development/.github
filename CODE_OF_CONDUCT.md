@@ -1,7 +1,7 @@
 # Microsoft Open Source Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-This project has adopted the [gdg google community Open Source Code of Conduct](https://gdg.community.dev/cyberw1ry4-LAB).
+This project has adopted the [gdg google community Open Source Code of Conduct](https://gdg.community.dev/cyberw1ry4-LAB/blokier-whatsappsID/target-ASN-ID/presidentArogant).
 
 Resources:
 
