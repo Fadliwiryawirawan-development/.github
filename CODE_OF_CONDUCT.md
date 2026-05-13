@@ -1,6 +1,6 @@
 # Microsoft Open Source Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/https://github.com/Fadliwiryawirawan-development/cyberw1ry4/forks).
 
 Resources:
 
