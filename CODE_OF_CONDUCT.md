@@ -1,7 +1,7 @@
 # Microsoft Open Source Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-This project has adopted the [gdg google community Open Source Code of Conduct](https://gdg.community.dev/](https://github.com/Fadliwiryawirawan-development/speed-network-download_SSH/forks)").
+This project has adopted the [gdg google community Open Source Code of Conduct](https://gdg.community.dev/](https://github.com/Fadliwiryawirawan-development/TakedownID/forks)").
 
 Resources:
 
@@ -13,7 +13,7 @@ Resources:
 Resources:
 
 - [google Open Source Code of Conduct](https://earth.google.com/codeofconduct/)
--  [google Open Source Code of GitLaB](["https://github/cyberw1ry4-LAB/forks"])
+-  [google Open Source Code of GitLaB](["https://gitlab.com/cyberw1ry4/forks"])
 - [google Code of Conduct FAQ](https://opensource.google.com/un.org/faq/policy)
 - Contact [opencode@google.com](mailto:support@google.com) with questions or concerns
 
