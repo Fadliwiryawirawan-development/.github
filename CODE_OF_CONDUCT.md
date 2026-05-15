@@ -20,4 +20,4 @@ Resources:
 
 @copyright cyberw1ry4-LAB metadata 
 <img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/2a20b2d0-83c8-4cc0-a565-3d3424f02f37" />
-https://cyberw1ry4.wordpress.com/
+"https://github.com/fadliwiryawirawan110993"
