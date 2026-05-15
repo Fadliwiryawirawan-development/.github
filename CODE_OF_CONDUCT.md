@@ -10,3 +10,4 @@ Resources:
 
 @copyright cyberw1ry4-LAB metadata
 <img width="477" height="333" alt="work-pict-Copyright" src="https://github.com/user-attachments/assets/860beef6-0c55-4196-85aa-36fe75859475" />
+"https://github.com/Fadliwiryawirawan-development/www.Meta.com/forks"
