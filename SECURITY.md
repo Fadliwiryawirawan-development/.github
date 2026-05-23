@@ -39,3 +39,5 @@ We prefer all communications to be in English.
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
 
 <!-- END MICROSOFT SECURITY.MD enable -->
+<img width="620" height="520" alt="cyberw1ry4-wordpress-com" src="https://github.com/user-attachments/assets/2a6e0056-751a-4ef7-86b9-0714bc01bda9" />
+
