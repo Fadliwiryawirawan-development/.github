@@ -1,7 +1,7 @@
 # Microsoft Open Source Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-This project has adopted the [gdg google community Open Source Code of Conduct](https://gitlab.com/cyberwrylabfadliwiryawirawan/clinic-ai/forks).
+This project has adopted the [gdg google community Open Source Code of Conduct](https://gitlab.com/cyberwrylabfadliwiryawirawan/w1ry4-ngamukID/forks).
 
 Resources:
 
@@ -13,11 +13,11 @@ Resources:
 Resources:
 
 - [google Open Source Code of Conduct](https://earth.google.com/codeofconduct/)
--  [google-microsoft Open Source Code of GitLAB university](["(https://gitlab.com/cyberwrylabfadliwiryawirawan/clinic-ai)"]) (["(https://gitlab.com/cyberwry4/)"])
+-  [google-microsoft Open Source Code of GitLAB university](["(https://gitlab.com/cyberwrylabfadliwiryawirawan/cybersecurity)"]) (["(https://gitlab.com/cyberwry4/)"])
 - [google Code of Conduct FAQ](https://opensource.google.com/un.org/faq/policy)
 - Contact [opencode@google.com](mailto:support@google.com) with questions or concerns
 
 
 @copyright cyberw1ry4-LAB metadata 
 <img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/2a20b2d0-83c8-4cc0-a565-3d3424f02f37" />
-(https://github.com/Fadliwiryawirawan-development/fadliwiryawirawan-microsoft.com-/forks)"
+(https://github.com/Fadliwiryawirawan-development/himei17/forks)"
