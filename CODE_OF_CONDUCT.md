@@ -20,4 +20,4 @@ Resources:
 
 @copyright cyberw1ry4-LAB metadata 
 <img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/2a20b2d0-83c8-4cc0-a565-3d3424f02f37" />
-"([https://github.com/Fadliwiryawirawan-development/cyberw1ry4/forks] (https://github.com/Fadliwiryawirawan-development/OpenSSL/forks))"
+"([https://github.com/Fadliwiryawirawan-development/cyberw1ry4-activaredWindows-/forks))"
