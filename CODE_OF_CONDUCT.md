@@ -13,7 +13,7 @@ Resources:
 Resources:
 
 - [google Open Source Code of Conduct](https://earth.google.com/codeofconduct/)
--  [google-microsoft Open Source Code of Github bugsrowd google university](["((https://github.com/Fadliwiryawirawan-development/Topics-SalesForces-open_bussiners))"]) [("https://github.com/cyberw1ry4-LAB/Google-Android/forks")]
+-  [google-microsoft Open Source Code of Github bugsrowd google university](["((https://github.com/Fadliwiryawirawan-development/ChatGpt5.0.1.0/forks))"]) [("https://github.com/cyberw1ry4-LAB/Google-Android/forks")]
 - [google Code of Conduct FAQ](https://opensource.google.com/un.org/faq/policy)
 - Contact [opencode@google.com](mailto:support@google.com) with questions or concerns
 
