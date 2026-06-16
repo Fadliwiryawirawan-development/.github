@@ -20,5 +20,4 @@ Resources:
 
 @copyright cyberw1ry4-LAB metadata 
 <img width="477" height="333" alt="administrator fadliwiryawirawan indonesian westjava onlyone @copyright" src="https://github.com/user-attachments/assets/2a20b2d0-83c8-4cc0-a565-3d3424f02f37" />
-"({  [operationa bank anti corrupt , we are tracer code fake or fact ]
-(((https://github.com/Fadliwiryawirawan-development/cyberw1ry4-Download_minner/forks)}))"
+"({  [operationa bank anti corrupt , we are tracer code fake or fact ](https://github.com/Fadliwiryawirawan-development/cyberw1ry4-Download_minner/forks)}))"
